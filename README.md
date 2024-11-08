@@ -2,17 +2,14 @@
 
 > A Vue.js project
 
-## Build Setup
+## en
 
-``` bash
-# install dependencies
-npm install
+Project made along with the following course: https://www.udemy.com/course/vue-web-apps/
 
-# serve with hot reload at localhost:8080
-npm run dev
+API used: swapi.dev
 
-# build for production with minification
-npm run build
-```
+## pt
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Projeto feito junto com o seguinte curso: https://www.udemy.com/course/vue-web-apps/
+
+API usada: swapi.dev
