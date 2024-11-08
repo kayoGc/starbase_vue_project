@@ -6,10 +6,10 @@
 
 Project made along with the following course: https://www.udemy.com/course/vue-web-apps/
 
-API used: swapi.dev
+API used: https://swapi.dev
 
 ## pt
 
 Projeto feito junto com o seguinte curso: https://www.udemy.com/course/vue-web-apps/
 
-API usada: swapi.dev
+API usada: https://swapi.dev
